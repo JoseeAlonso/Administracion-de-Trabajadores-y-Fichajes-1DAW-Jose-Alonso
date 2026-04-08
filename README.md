@@ -26,10 +26,11 @@ mientras que los trabajadores pueden registrar su entrada y salida.
 - ## Cómo ejecutar
 
 1. Clonar el repositorio
+git clone https://github.com/JoseeAlonso/Administracion-de-Trabajadores-y-Fichajes-1DAW-Jose-Alonso.git
 
-2. Abrir el proyecto en IntelliJ, Visual Studio Code o cualquier IDE compatible con lenguaje JAVA
+3. Abrir el proyecto en IntelliJ, Visual Studio Code o cualquier IDE compatible con lenguaje JAVA
 
-3. Ejecutar la clase Main
+4. Ejecutar la clase Main
 
 ## Ejemplo de uso
 
