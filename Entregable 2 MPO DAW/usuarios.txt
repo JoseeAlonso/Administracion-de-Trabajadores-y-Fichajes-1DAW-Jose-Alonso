@@ -1,0 +1,3 @@
+ADMINISTRADOR;kike;Alonso;11111111P;kike@administrador.com;12345
+TRABAJADOR;Borja;Martín;00000000A;borja@empresa.com;1234
+TRABAJADOR;Jose;Ernesto;4623;ernesto@empresa.com;1111
